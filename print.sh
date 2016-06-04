@@ -2,3 +2,4 @@
 echo 'test'
 words1 = $1
 echo $words1
+words2 = $#
